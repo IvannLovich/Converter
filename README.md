@@ -18,9 +18,9 @@ import { binaryTodecimal } from 'convert'
 
 ```
 
-## Créditos
+## Credits
 - Ivan Lovich
 
-## Licencia
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
