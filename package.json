@@ -1,0 +1,25 @@
+{
+  "name": "convert",
+  "version": "0.1.0",
+  "description": "conversion system from decimal to binary and binary to decimal",
+  "main": "dist/src/convert.js",
+  "scripts": {
+    "build": "babel src/convert.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvannLovich/Converter.git"
+  },
+  "author": "Iván Lovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvannLovich/Converter/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  }
+}
