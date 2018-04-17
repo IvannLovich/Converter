@@ -1,5 +1,5 @@
 {
-  "name": "convert",
+  "name": "@ivo86/convert",
   "version": "0.1.0",
   "description": "conversion system from decimal to binary and binary to decimal",
   "main": "dist/src/convert.js",
